@@ -7,10 +7,19 @@ IT being a part of me, I love exploring places with coffee
 
 <details>
 <summary>TECH STACK</summary>
-
-| Languages |
+  
+| Skills |
 |-----------|
 | JavaScript|
+| Python|
+| RobotFramework|
+| Automation Testing|
+| API Testing|
+| Selenium|.
+| Playwright|
+| SQL|
+| Machine Learning|
+
 </details>
 TECH STACK
 Languages (I have been excelling in)
