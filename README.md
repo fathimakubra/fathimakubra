@@ -9,7 +9,7 @@ IT being a part of me, I love exploring places with coffee
 <summary>TECH STACK</summary>
 
 | Languages |
-|-----:|-----------|
+|-----------|
 | JavaScript|
 </details>
 TECH STACK
