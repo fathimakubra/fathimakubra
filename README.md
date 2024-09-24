@@ -4,7 +4,7 @@ I'm a QA Engineer with 6+ Years of Experience who is passionate about making ope
 My main goal is to improve my professional skills while recreating & redesigning projects in world of Data Science.
 Currently Pursuing BSc Online Degree in Data Science and Programming from IIT Madras.
 
-IT being a part of me, I love exploring places with coffee
+IT being a part of me, I love exploring places with a cup of coffee
 
 <details>
 <summary>TECH STACK</summary>
