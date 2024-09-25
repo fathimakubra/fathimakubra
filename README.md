@@ -34,5 +34,3 @@ Apart from being an IT professional, I love exploring places with a cup of coffe
 
 </details>
 
-
-Please feel free to get in touch, I'll be happy to help ✌️ Email
